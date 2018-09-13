@@ -1,0 +1,23 @@
+_repo: Franzosische-Lyrik-alter-und-neuer-Zeit-in-deutschen-Versen_51360
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Jaffé, Joseph
+    alias: Jaffe, Joseph
+    gutenberg_agent_id: '46378'
+    url: http://www.gutenberg.org/2009/agents/46378
+description: ''
+gutenberg_issued: '2016-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51360'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French poetry -- Translations into German'
+- GITenberg
+title: Französische Lyrik alter und neuer Zeit in deutschen Versen
+url: http://www.gutenberg.org/ebooks/51360
